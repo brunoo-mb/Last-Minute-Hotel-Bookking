@@ -1,1 +1,1 @@
-# Last-Minute-Hotel-Bookking
+# Last-Minute-Hotel-Booking
